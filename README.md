@@ -7,9 +7,8 @@ project also creates some new functions.
 Except for linked list functions, test cases are provided at the bottom for all the remaining functions which are commented.
 
 Below are the snapshots of these functions.
-# Images in README
 
 <img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_1.png">
 <img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_2.png">
 
-To asses how the functions performed, these functions were ran on the following repo: https://github.com/alelievr/libft-unit-test
+To asses how the functions performed, these functions were tested on the following repo: https://github.com/alelievr/libft-unit-test
