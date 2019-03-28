@@ -1,8 +1,15 @@
-This project recreates some of the functions from string.h library. Apart from string.h functions, the
+# Recreating C Library - string.h and ctype.h
+This is the first project in the curriculum provided by software engineering school - 42.
+
+This project recreates functions from string.h and ctype.h libraries. Apart from creating functions from these libraries, the
 project also creates some new functions.
 
 Except for linked list functions, test cases are provided at the bottom for all the remaining functions which are commented.
 
+Below are the snapshots of these functions.
 # Images in README
+
 <img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_1.png">
 <img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_2.png">
+
+To asses how the functions performed, these functions were ran on the following repo: https://github.com/alelievr/libft-unit-test
