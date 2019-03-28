@@ -11,4 +11,4 @@ Below are the snapshots of these functions.
 <img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_1.png">
 <img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_2.png">
 
-To asses how the functions performed, these functions were tested using the following repo: https://github.com/alelievr/libft-unit-test
+To assess how the functions performed, these functions were tested using the following repo: https://github.com/alelievr/libft-unit-test
