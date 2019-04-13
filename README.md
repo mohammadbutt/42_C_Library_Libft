@@ -12,7 +12,7 @@ Compiling can be tricky. There are severeal methods to compile. For instance, in
 ```
 gcc ft_strsplit.c ft_endtrim.c ft_strsub.c ft_wordcount.c ft_strlen.c
 ```
-This gives an a.out file, which can be executed by simply typing./a.out
+This gives an a.out file, which can be executed by simply typing `./a.out`. But the trouble to compile a program by this method is that the all of the the functions and each function that calls on to other function would have to included. This would get challenging when a big program is compiled.
 
 Below are the snapshots of these functions.
 
