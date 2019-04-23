@@ -18,9 +18,9 @@ This gives an a.out file, which can be executed by simply typing `./a.out`.
 
 But the trouble to compile a program by this method is that all of the the functions that are used in a program will be included and each function that calls on to additional functions would also have to be included. This would get challenging when a big program is compiled.
 
+# Installation
 In order to make compiling easy, `Makefile` is created. Typing and entering `make` will create .o file for each file and it will also create `libft.a` which is a static library. Now including this static library with a program will compile the program without having to include any additional programs or files. Below are the commands.
 
-# Installation
 ```
 make
 gcc ft_strsplit.c libft.a
