@@ -32,7 +32,7 @@ There are also additionals components in `Makefile`
 
 Below are the snapshots of these functions.
 
-<img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_1.png">
-<img src="https://github.com/mohammadbutt/C-Library-Libft/blob/master/libft_unit_test_2.png">
+<img src="https://github.com/mohammadbutt/42_C_Library_Libft/blob/master/snapshots/libft_unit_test_1.png">
+<img src="https://github.com/mohammadbutt/42_C_Library_Libft/blob/master/snapshots/libft_unit_test_2.png">
 
 To assess how the functions performed, these functions were tested using the following repo: https://github.com/alelievr/libft-unit-test
