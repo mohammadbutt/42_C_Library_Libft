@@ -6,7 +6,7 @@
 /*   By: mbutt <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/02/25 20:10:59 by mbutt             #+#    #+#             */
-/*   Updated: 2019/03/21 23:36:09 by mbutt            ###   ########.fr       */
+/*   Updated: 2019/04/24 18:12:19 by mbutt            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,11 @@ void	ft_putstr(char const *s)
 	if (s)
 		while (*s)
 			write(1, s++, 1);
+/*
+** Using ft_strlen, instead of while loop;
+	if(s)
+		write(1, s, ft_strlen(s));
+*/
 }
 /*
 ** int main (void)
