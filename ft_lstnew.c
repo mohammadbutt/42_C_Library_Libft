@@ -6,7 +6,7 @@
 /*   By: mbutt <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/03/22 10:28:11 by mbutt             #+#    #+#             */
-/*   Updated: 2019/03/25 11:48:51 by mbutt            ###   ########.fr       */
+/*   Updated: 2019/05/08 19:41:17 by mbutt            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,3 +47,18 @@ t_list	*ft_lstnew(void const *content, size_t content_size)
 	n_node->next = NULL;
 	return (n_node);
 }
+/*
+int main (void)
+{
+	t_list *n_node2;
+	void const *string;
+	size_t size;
+
+	string = "This is a test\n";
+	size = 16;
+	n_node2 = ft_lstnew(string, size);
+	printf("%s", n_node2->content);
+	printf("%zu", n_node2->content_size);
+	return(0);
+}
+*/
