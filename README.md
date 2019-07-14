@@ -39,4 +39,4 @@ Below are the snapshots of these functions.
 
 To assess how the functions performed, these functions were tested using the [libft-unit-test](https://github.com/alelievr/libft-unit-test), created by a 42 student.
 
-The project also passed the [Moulibft](https://moulibft.com/), also created by a 42 Student.
+The project also passed the [Moulibft](https://moulibft.com/) tests, also created by a 42 Student.
